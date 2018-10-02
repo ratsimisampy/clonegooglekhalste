@@ -12,3 +12,16 @@ img {
 	margin-left: auto;
 	margin-right: auto;
 }
+#gmail,li {
+	list-style: none;
+	margin-left: 1070p;}
+	
+li{ 
+float:right;padding: 8px; }
+
+.logo {
+	padding-top: 109px;
+	height: 130px;
+	
+}
+footer {position: absolute; bottom: 0; left: 0; right: 0}
